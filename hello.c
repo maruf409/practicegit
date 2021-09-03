@@ -3,6 +3,7 @@
 int main(){
         printf("hello bangladesh");
         printf("hello");
+        print("the weather is fine");
         getch();
         return 0;
 
